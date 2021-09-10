@@ -1,0 +1,11 @@
+commit d8008bc7c0ad9e762d7f49d4e0a3cef8d50932c9
+Author: Slade Getz <asgetz@mines.edu>
+Date:   Thu Sep 9 18:44:16 2021 -0600
+
+    Added sup msg
+
+commit a86a5e3e9d5cd6e0339aa0b3d2ae88a916762410
+Author: SladeGetz <asgetz@mines.edu>
+Date:   Thu Sep 9 18:41:39 2021 -0600
+
+    Initial Commit
